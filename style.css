@@ -24,7 +24,8 @@ main {
 
 /* SITE HEADER */
 header {
-  position: sticky;
+  position: fixed;
+  margin-left: 10%;
   top: 1px;
   border-bottom: 1px solid gray;
   background: linear-gradient(
